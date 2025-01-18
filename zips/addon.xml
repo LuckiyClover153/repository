@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.LuckiyClover153" name="Luckiy Clover 153 Repository" version="1.0" provider-name="Luckiy Clover 153">
+    <extension point="xbmc.addon.repository">
+        <info compressed="false">https://github.com/LuckiyClover153/repository/raw/main/addons.xml</info>
+        <checksum>https://github.com/LuckiyClover153/repository/raw/main/addonsmd5.txt</checksum>
+        <datadir zip="true">https://github.com/LuckiyClover153/repository/raw/main/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Luckiy Clover 153 Add-ons</summary>
+        <description>Official repository for Luckiy Clover 153's Kodi add-ons.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
